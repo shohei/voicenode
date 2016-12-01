@@ -1,5 +1,5 @@
 brew install portaudio
-brew install sptk
+brew install homebrew/x11/sptk
 
 npm i -g jsaudio
 npm i -g bindings
