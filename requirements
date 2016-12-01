@@ -1,0 +1,8 @@
+brew install portaudio
+brew install sptk
+
+npm i -g jsaudio
+npm i -g bindings
+npm i -g node-gyp 
+
+npm i -g sprintfjs
